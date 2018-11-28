@@ -1,0 +1,10 @@
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty
+empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty empty
+empty empty empty empty empty empty empty empty bird empty empty empty empty empty empty empty empty empty empty empty
+empty empty empty goomba empty empty empty empty empty empty empty empty empty empty empty empty tunnel empty empty empty
+empty empty empty wall box wall box wall empty empty empty empty empty empty empty empty tunnel empty empty empty
+empty empty empty wall empty empty empty empty empty empty empty empty empty empty tunnel empty tunnel empty empty empty
+empty empty empty empty empty empty empty empty empty empty empty goomba empty empty tunnel empty tunnel empty empty empty
+floor floor floor floor floor floor floor floor floor empty empty floor floor floor floor empty floor floor floor floor
+floor floor floor floor floor floor floor floor floor empty empty floor floor floor floor empty floor floor floor floor
